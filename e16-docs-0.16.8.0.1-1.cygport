@@ -1,0 +1,3 @@
+DESCRIPTION="Enlightenment E16 help documentation"
+HOMEPAGE="http://enlightenment.org/"
+SRC_URI="mirror://sourceforge/enlightenment/${P}.tar.gz"
