@@ -4,10 +4,10 @@ Help documentation for the Enlightenment DR16 window manager
 
 Build requirements:
 (besides corresponding -devel packages)
-  autoconf2.5-2.63-1
-  automake1.10-1.10.1-2
-  cygport-0.4.3-1
-  make-3.81-1
+  autoconf2.5-2.65-1
+  automake1.10-1.10.3-1
+  cygport-0.9.80-1
+  make-3.81-2
 
 Canonical website:
   http://www.enlightenment.org/
@@ -30,68 +30,10 @@ This will create:
 
 -------------------------------------------
 
-Files included in the binary package:
-
-  /usr/share/doc/e16-docs-0.16.8.0.2/AUTHORS
-  /usr/share/doc/e16-docs-0.16.8.0.2/COPYING
-  /usr/share/doc/e16-docs-0.16.8.0.2/README
-  /usr/share/e16/E-docs/E_app_menu.png
-  /usr/share/e16/E-docs/E_app_rightmouse_menu.png
-  /usr/share/e16/E-docs/E_area_settings.png
-  /usr/share/e16/E-docs/E_audio_settings.png
-  /usr/share/e16/E-docs/E_autoraise_settings.png
-  /usr/share/e16/E-docs/E_backgrounds_menu.png
-  /usr/share/e16/E-docs/E_backgrounds_menu_view.png
-  /usr/share/e16/E-docs/E_backgrounds_settings.pl.png
-  /usr/share/e16/E-docs/E_backgrounds_settings.png
-  /usr/share/e16/E-docs/E_border_selector.png
-  /usr/share/e16/E-docs/E_deskarray.png
-  /usr/share/e16/E-docs/E_deskimg.png
-  /usr/share/e16/E-docs/E_deskstack.png
-  /usr/share/e16/E-docs/E_dragbar.png
-  /usr/share/e16/E-docs/E_dragging_desktops.png
-  /usr/share/e16/E-docs/E_enlightenment_menu.png
-  /usr/share/e16/E-docs/E_focus_settings.png
-  /usr/share/e16/E-docs/E_group_settings.png
-  /usr/share/e16/E-docs/E_groups_menu.png
-  /usr/share/e16/E-docs/E_iconbox.png
-  /usr/share/e16/E-docs/E_iconbox_menu.png
-  /usr/share/e16/E-docs/E_iconbox_settings.png
-  /usr/share/e16/E-docs/E_kde_settings.png
-  /usr/share/e16/E-docs/E_keyboard.png
-  /usr/share/e16/E-docs/E_logo.png
-  /usr/share/e16/E-docs/E_maint_menu.png
-  /usr/share/e16/E-docs/E_mouse.png
-  /usr/share/e16/E-docs/E_mousewheel.png
-  /usr/share/e16/E-docs/E_move_resize_settings.png
-  /usr/share/e16/E-docs/E_pager.png
-  /usr/share/e16/E-docs/E_pager_settings.png
-  /usr/share/e16/E-docs/E_pager_settings_menu.png
-  /usr/share/e16/E-docs/E_placement_settings.png
-  /usr/share/e16/E-docs/E_remember_settings.png
-  /usr/share/e16/E-docs/E_screen_start.png
-  /usr/share/e16/E-docs/E_settings_menu.png
-  /usr/share/e16/E-docs/E_special_fx_settings.png
-  /usr/share/e16/E-docs/E_tooltip_settings.png
-  /usr/share/e16/E-docs/E_tooltips.png
-  /usr/share/e16/E-docs/E_virtual_desk_settings.png
-  /usr/share/e16/E-docs/E_window.png
-  /usr/share/e16/E-docs/E_window_diagram.pl.png
-  /usr/share/e16/E-docs/E_window_diagram.png
-  /usr/share/e16/E-docs/Edoc_bg.png
-  /usr/share/e16/E-docs/MAIN
-  /usr/share/e16/E-docs/Vera.ttf
-  /usr/share/e16/E-docs/VeraBd.ttf
-
-------------------
-
 Port Notes:
 
------ version 0.16.8.0.2-1 -----
-Version bump.
-
------ version 0.16.8.0.1-1 -----
-Initial release for Cygwin.
+----- version 0.16.8.0.2-2 -----
+Initial release for Cygwin 1.7.
 
 
 Cygwin port maintained by:
